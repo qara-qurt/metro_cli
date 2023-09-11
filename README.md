@@ -1,4 +1,10 @@
-# METRO CLI
+# __  __ ______ _______ _____   ____       _____ _      _____ 
+# |  \/  |  ____|__   __|  __ \ / __ \    / ____| |    |_   _|
+# | \  / | |__     | |  | |__) | |  | |  | |    | |      | |  
+# | |\/| |  __|    | |  |  _  /| |  | |  | |    | |      | |  
+# | |  | | |____   | |  | | \ \| |__| |  | |____| |____ _| |_ 
+# |_|  |_|______|  |_|  |_|  \_\\____/    \_____|______|_____|
+
 
 **METRO CLI** is a command-line tool for accessing the metro schedule in Almaty, Kazakhstan. It provides information on metro station schedules and allows users to view station-specific schedules and other options.
 
