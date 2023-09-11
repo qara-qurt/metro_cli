@@ -21,9 +21,11 @@ cd ./metroCLI
 ## Options
 METRO CLI provides the following command-line options:
 
+```bash
 --station value, -s value, --stat value: Specify the station for which you want to view the schedule (default: 0).
 --all, -a: Show the full schedule table for the specified station (default: false).
 --help, -h: Show help and usage information.
+```
 
 ## Examples
 Here are some examples of how to use METRO CLI:
